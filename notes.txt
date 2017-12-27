@@ -1,0 +1,4 @@
+"*" acts as an _infix_ operater, such as 5 * 5. It is sandwiched between two numbers  
+Regular functions are prefix operators, such as "succ 8"  
+Every element in a list must be of the same datatype  
+List comprehension is cool. It is similar to java lambda functions  
